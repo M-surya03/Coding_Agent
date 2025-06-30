@@ -5,6 +5,8 @@ A beginner-friendly Coding Chatbot Web App built using HTML, CSS, and JavaScript
 Coming soon! (You can deploy this using GitHub Pages or any static hosting platform.)
 
 📸 Preview
+![Uploading Screenshot 2025-06-30 191347.png…]()
+![Uploading Screenshot 2025-06-30 191407.png…]()
 
 A screenshot of the chatbot UI goes here (optional).
 
@@ -34,7 +36,7 @@ JavaScript – Handling chat logic and interactivity
 🧪 How to Run Locally
 Clone the Repository
 
-git clone https://github.com/your-username/coding-chatbot.git
+git clone https://github.com/M-surya03/coding-chatbot.git
 Navigate to the Project Folder
 
 Simply open index.html in your web browser.
@@ -50,6 +52,8 @@ coding_Agent/
 ├── app.py   # Main chatbot webpage
 ├── README.md       # Project documentation
 └── requirements.txt   
+
+
 🧠 Sample Questions to Try
 User Question	Bot Answer
 What is a function in Python?	
